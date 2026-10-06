@@ -4,7 +4,7 @@ import { chromium } from "playwright";
 import fs from "node:fs";
 
 const URL = "https://tarim.ibb.istanbul/avrupa-yakasi-hal-mudurlugu/hal-fiyatlari.html";
-const OUT = "data/hal.json";
+const OUT = "hal.json";
 
 const sayi = (s) => Number(s.replace(/TL/i, "").replace(/\./g, "").replace(",", ".").trim());
 const bugunTR = () =>
