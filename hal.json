@@ -1,105 +1,105 @@
 {
- "tarih": "2026-10-20",
- "guncellenme": "2026-10-20 12:01:35",
+ "tarih": "2026-10-21",
+ "guncellenme": "2026-10-21 12:01:29",
  "kaynak": "İBB Avrupa Yakası Hal Şube Müdürlüğü",
  "urunler": [
   {
    "kategori": "Meyve",
    "urun": "Armut",
    "birim": "Kilogram",
-   "en_dusuk": 34,
-   "en_yuksek": 56
+   "en_dusuk": 36,
+   "en_yuksek": 53
   },
   {
    "kategori": "Meyve",
    "urun": "Armut (Deveci)",
    "birim": "Kilogram",
-   "en_dusuk": 49,
-   "en_yuksek": 58
+   "en_dusuk": 46,
+   "en_yuksek": 59
   },
   {
    "kategori": "Meyve",
    "urun": "Armut (Santamaria)",
    "birim": "Kilogram",
-   "en_dusuk": 44,
-   "en_yuksek": 62
+   "en_dusuk": 42,
+   "en_yuksek": 65
   },
   {
    "kategori": "Meyve",
    "urun": "Avakado",
    "birim": "Adet",
-   "en_dusuk": 47,
-   "en_yuksek": 65
+   "en_dusuk": 46,
+   "en_yuksek": 64
   },
   {
    "kategori": "Meyve",
    "urun": "Ayva",
    "birim": "Kilogram",
-   "en_dusuk": 50,
-   "en_yuksek": 60
+   "en_dusuk": 45,
+   "en_yuksek": 64
   },
   {
    "kategori": "Meyve",
    "urun": "Böğürtlen",
    "birim": "Kilogram",
-   "en_dusuk": 1604,
-   "en_yuksek": 2304
+   "en_dusuk": 1228,
+   "en_yuksek": 1909
   },
   {
    "kategori": "Meyve",
    "urun": "Çilek",
    "birim": "Kilogram",
-   "en_dusuk": 121,
-   "en_yuksek": 249
+   "en_dusuk": 157,
+   "en_yuksek": 253
   },
   {
    "kategori": "Meyve",
    "urun": "Elma (Amasya)",
    "birim": "Kilogram",
-   "en_dusuk": 47,
-   "en_yuksek": 66
+   "en_dusuk": 50,
+   "en_yuksek": 67
   },
   {
    "kategori": "Meyve",
    "urun": "Elma (Golden)",
    "birim": "Kilogram",
-   "en_dusuk": 33,
-   "en_yuksek": 41
+   "en_dusuk": 31,
+   "en_yuksek": 43
   },
   {
    "kategori": "Meyve",
    "urun": "Elma (Gransimit)",
    "birim": "Kilogram",
-   "en_dusuk": 37,
-   "en_yuksek": 53
+   "en_dusuk": 38,
+   "en_yuksek": 54
   },
   {
    "kategori": "Meyve",
    "urun": "Elma (Starkin)",
    "birim": "Kilogram",
-   "en_dusuk": 34,
-   "en_yuksek": 44
+   "en_dusuk": 37,
+   "en_yuksek": 47
   },
   {
    "kategori": "Meyve",
    "urun": "Erik",
    "birim": "Kilogram",
    "en_dusuk": 25,
-   "en_yuksek": 36
+   "en_yuksek": 35
   },
   {
    "kategori": "Meyve",
    "urun": "Erik (Anjelik)",
    "birim": "Kilogram",
-   "en_dusuk": 42,
-   "en_yuksek": 49
+   "en_dusuk": 41,
+   "en_yuksek": 53
   },
   {
    "kategori": "Meyve",
    "urun": "Greyfurt",
    "birim": "Kilogram",
-   "en_dusuk": 40,
-   "en_yuksek": 44
+   "en_dusuk": 43,
+   "en_yuksek": 49
   },
   {
    "kategori": "Meyve",
@@ -112,15 +112,15 @@
    "kategori": "Meyve",
    "urun": "İncir(Beyaz)",
    "birim": "Kilogram",
-   "en_dusuk": 50,
-   "en_yuksek": 85
+   "en_dusuk": 51,
+   "en_yuksek": 93
   },
   {
    "kategori": "Meyve",
    "urun": "Karpuz (1.Kalite)",
    "birim": "Kilogram",
-   "en_dusuk": 19,
-   "en_yuksek": 20
+   "en_dusuk": 17,
+   "en_yuksek": 18
   },
   {
    "kategori": "Meyve",
@@ -133,50 +133,50 @@
    "kategori": "Meyve",
    "urun": "Kestane",
    "birim": "Kilogram",
-   "en_dusuk": 291,
-   "en_yuksek": 331
+   "en_dusuk": 253,
+   "en_yuksek": 293
   },
   {
    "kategori": "Meyve",
    "urun": "Kivi (Yerli)",
    "birim": "Kilogram",
-   "en_dusuk": 83,
-   "en_yuksek": 96
+   "en_dusuk": 85,
+   "en_yuksek": 102
   },
   {
    "kategori": "Meyve",
    "urun": "Limon",
    "birim": "Kilogram",
    "en_dusuk": 17,
-   "en_yuksek": 41
+   "en_yuksek": 39
   },
   {
    "kategori": "Meyve",
    "urun": "Limon (Enter)",
    "birim": "Kilogram",
-   "en_dusuk": 16,
-   "en_yuksek": 23
+   "en_dusuk": 22,
+   "en_yuksek": 24
   },
   {
    "kategori": "Meyve",
    "urun": "Limon (Lamas)",
    "birim": "Kilogram",
-   "en_dusuk": 40,
-   "en_yuksek": 58
+   "en_dusuk": 28,
+   "en_yuksek": 32
   },
   {
    "kategori": "Meyve",
    "urun": "Limon (Mayer)",
    "birim": "Kilogram",
-   "en_dusuk": 19,
-   "en_yuksek": 29
+   "en_dusuk": 21,
+   "en_yuksek": 28
   },
   {
    "kategori": "Meyve",
    "urun": "Mandalina",
    "birim": "Kilogram",
-   "en_dusuk": 13,
-   "en_yuksek": 41
+   "en_dusuk": 18,
+   "en_yuksek": 40
   },
   {
    "kategori": "Meyve",
@@ -189,217 +189,224 @@
    "kategori": "Meyve",
    "urun": "Muz (Yerli)",
    "birim": "Kilogram",
-   "en_dusuk": 69,
+   "en_dusuk": 71,
    "en_yuksek": 88
   },
   {
    "kategori": "Meyve",
    "urun": "Nar",
    "birim": "Kilogram",
-   "en_dusuk": 22,
-   "en_yuksek": 55
+   "en_dusuk": 23,
+   "en_yuksek": 59
   },
   {
    "kategori": "Meyve",
    "urun": "Nektarin",
    "birim": "Kilogram",
-   "en_dusuk": 34,
-   "en_yuksek": 47
+   "en_dusuk": 37,
+   "en_yuksek": 53
   },
   {
    "kategori": "Meyve",
    "urun": "Pitahaya (Ejder Meyvesi)",
    "birim": "Adet",
-   "en_dusuk": 73,
-   "en_yuksek": 97
+   "en_dusuk": 71,
+   "en_yuksek": 100
   },
   {
    "kategori": "Meyve",
    "urun": "Portakal",
    "birim": "Kilogram",
    "en_dusuk": 38,
-   "en_yuksek": 51
+   "en_yuksek": 50
   },
   {
    "kategori": "Meyve",
    "urun": "Şeftali",
    "birim": "Kilogram",
-   "en_dusuk": 36,
-   "en_yuksek": 50
+   "en_dusuk": 40,
+   "en_yuksek": 57
   },
   {
    "kategori": "Meyve",
    "urun": "Trabzon Hurması",
    "birim": "Kilogram",
-   "en_dusuk": 44,
-   "en_yuksek": 68
+   "en_dusuk": 49,
+   "en_yuksek": 76
   },
   {
    "kategori": "Meyve",
    "urun": "Üzüm",
    "birim": "Kilogram",
    "en_dusuk": 28,
-   "en_yuksek": 40
+   "en_yuksek": 39
   },
   {
    "kategori": "Meyve",
    "urun": "Üzüm (Çekirdeksiz)",
    "birim": "Kilogram",
-   "en_dusuk": 24,
+   "en_dusuk": 26,
    "en_yuksek": 37
   },
   {
    "kategori": "Meyve",
    "urun": "Üzüm(Siyah)",
    "birim": "Kilogram",
-   "en_dusuk": 44,
-   "en_yuksek": 62
+   "en_dusuk": 39,
+   "en_yuksek": 63
   },
   {
    "kategori": "Sebze",
    "urun": "Barbunya",
    "birim": "Kilogram",
-   "en_dusuk": 64,
-   "en_yuksek": 75
+   "en_dusuk": 49,
+   "en_yuksek": 71
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Capia)",
    "birim": "Kilogram",
-   "en_dusuk": 53,
-   "en_yuksek": 101
+   "en_dusuk": 42,
+   "en_yuksek": 102
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Çarli)",
    "birim": "Kilogram",
-   "en_dusuk": 72,
+   "en_dusuk": 68,
    "en_yuksek": 94
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Dolma)",
    "birim": "Kilogram",
-   "en_dusuk": 54,
-   "en_yuksek": 88
+   "en_dusuk": 58,
+   "en_yuksek": 86
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Köy)",
    "birim": "Kilogram",
-   "en_dusuk": 73,
-   "en_yuksek": 86
+   "en_dusuk": 66,
+   "en_yuksek": 91
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Renkli)",
    "birim": "Kilogram",
-   "en_dusuk": 139,
-   "en_yuksek": 161
+   "en_dusuk": 163,
+   "en_yuksek": 178
   },
   {
    "kategori": "Sebze",
    "urun": "Biber (Sivri)",
    "birim": "Kilogram",
-   "en_dusuk": 60,
-   "en_yuksek": 102
+   "en_dusuk": 56,
+   "en_yuksek": 111
   },
   {
    "kategori": "Sebze",
    "urun": "Biber(Sivri Kıl)",
    "birim": "Kilogram",
-   "en_dusuk": 91,
-   "en_yuksek": 115
+   "en_dusuk": 86,
+   "en_yuksek": 127
   },
   {
    "kategori": "Sebze",
    "urun": "Brokoli",
    "birim": "Kilogram",
-   "en_dusuk": 26,
+   "en_dusuk": 28,
    "en_yuksek": 52
   },
   {
    "kategori": "Sebze",
    "urun": "Dereotu",
    "birim": "Demet",
-   "en_dusuk": 10,
+   "en_dusuk": 9,
    "en_yuksek": 15
   },
   {
    "kategori": "Sebze",
    "urun": "Domates",
    "birim": "Kilogram",
-   "en_dusuk": 25,
-   "en_yuksek": 92
+   "en_dusuk": 27,
+   "en_yuksek": 100
   },
   {
    "kategori": "Sebze",
    "urun": "Domates (Çeri)",
    "birim": "Kilogram",
-   "en_dusuk": 160,
-   "en_yuksek": 171
+   "en_dusuk": 162,
+   "en_yuksek": 183
   },
   {
    "kategori": "Sebze",
    "urun": "Domates (kokteyl)",
    "birim": "Kilogram",
-   "en_dusuk": 94,
-   "en_yuksek": 142
+   "en_dusuk": 90,
+   "en_yuksek": 143
   },
   {
    "kategori": "Sebze",
    "urun": "Domates (Pembe)",
    "birim": "Kilogram",
-   "en_dusuk": 69,
-   "en_yuksek": 96
+   "en_dusuk": 78,
+   "en_yuksek": 104
   },
   {
    "kategori": "Sebze",
    "urun": "Domates (Salkım)",
    "birim": "Kilogram",
-   "en_dusuk": 112,
-   "en_yuksek": 123
+   "en_dusuk": 107,
+   "en_yuksek": 121
   },
   {
    "kategori": "Sebze",
    "urun": "Domates(Petemek)",
    "birim": "Kilogram",
-   "en_dusuk": 21,
+   "en_dusuk": 22,
    "en_yuksek": 33
+  },
+  {
+   "kategori": "Sebze",
+   "urun": "Enginar",
+   "birim": "Adet",
+   "en_dusuk": 117,
+   "en_yuksek": 124
   },
   {
    "kategori": "Sebze",
    "urun": "Fasülye (Çalı)",
    "birim": "Kilogram",
-   "en_dusuk": 71,
-   "en_yuksek": 92
+   "en_dusuk": 78,
+   "en_yuksek": 93
   },
   {
    "kategori": "Sebze",
    "urun": "Fasülye (Yer)",
    "birim": "Kilogram",
-   "en_dusuk": 56,
-   "en_yuksek": 72
+   "en_dusuk": 55,
+   "en_yuksek": 75
   },
   {
    "kategori": "Sebze",
    "urun": "Fesleğen",
    "birim": "Demet",
    "en_dusuk": 14,
-   "en_yuksek": 20
+   "en_yuksek": 21
   },
   {
    "kategori": "Sebze",
    "urun": "Göbek Salata",
    "birim": "Adet",
-   "en_dusuk": 20,
-   "en_yuksek": 30
+   "en_dusuk": 19,
+   "en_yuksek": 27
   },
   {
    "kategori": "Sebze",
    "urun": "Havuç (Beypazarı)",
    "birim": "Kilogram",
-   "en_dusuk": 16,
+   "en_dusuk": 17,
    "en_yuksek": 22
   },
   {
@@ -413,63 +420,63 @@
    "kategori": "Sebze",
    "urun": "Havuç I.",
    "birim": "Kilogram",
-   "en_dusuk": 15,
-   "en_yuksek": 23
+   "en_dusuk": 17,
+   "en_yuksek": 25
   },
   {
    "kategori": "Sebze",
    "urun": "Ispanak",
    "birim": "Kilogram",
-   "en_dusuk": 41,
-   "en_yuksek": 54
+   "en_dusuk": 36,
+   "en_yuksek": 52
   },
   {
    "kategori": "Sebze",
    "urun": "Kabak (Bal)",
    "birim": "Kilogram",
-   "en_dusuk": 36,
-   "en_yuksek": 44
+   "en_dusuk": 32,
+   "en_yuksek": 39
   },
   {
    "kategori": "Sebze",
    "urun": "Kabak (Sakız)",
    "birim": "Kilogram",
-   "en_dusuk": 15,
+   "en_dusuk": 17,
    "en_yuksek": 45
   },
   {
    "kategori": "Sebze",
    "urun": "Karnabahar",
    "birim": "Kilogram",
-   "en_dusuk": 12,
-   "en_yuksek": 30
+   "en_dusuk": 11,
+   "en_yuksek": 29
   },
   {
    "kategori": "Sebze",
    "urun": "Kereviz",
    "birim": "Kilogram",
-   "en_dusuk": 38,
+   "en_dusuk": 37,
    "en_yuksek": 45
   },
   {
    "kategori": "Sebze",
    "urun": "Kıvırcık",
    "birim": "Adet",
-   "en_dusuk": 23,
-   "en_yuksek": 37
+   "en_dusuk": 20,
+   "en_yuksek": 36
   },
   {
    "kategori": "Sebze",
    "urun": "Kıvırcık Kırmızı(Lolorosso)",
    "birim": "Adet",
-   "en_dusuk": 23,
-   "en_yuksek": 30
+   "en_dusuk": 22,
+   "en_yuksek": 28
   },
   {
    "kategori": "Sebze",
    "urun": "Kuzu Kulağı",
    "birim": "Kilogram",
-   "en_dusuk": 14,
+   "en_dusuk": 13,
    "en_yuksek": 18
   },
   {
@@ -483,8 +490,8 @@
    "kategori": "Sebze",
    "urun": "Lahana (Kara)",
    "birim": "Kilogram",
-   "en_dusuk": 27,
-   "en_yuksek": 33
+   "en_dusuk": 28,
+   "en_yuksek": 34
   },
   {
    "kategori": "Sebze",
@@ -497,29 +504,29 @@
    "kategori": "Sebze",
    "urun": "Mantar",
    "birim": "Kilogram",
-   "en_dusuk": 142,
-   "en_yuksek": 171
+   "en_dusuk": 140,
+   "en_yuksek": 172
   },
   {
    "kategori": "Sebze",
    "urun": "Marul",
    "birim": "Adet",
-   "en_dusuk": 17,
-   "en_yuksek": 28
+   "en_dusuk": 15,
+   "en_yuksek": 27
   },
   {
    "kategori": "Sebze",
    "urun": "Maydonoz",
    "birim": "Demet",
-   "en_dusuk": 7,
-   "en_yuksek": 15
+   "en_dusuk": 6,
+   "en_yuksek": 14
   },
   {
    "kategori": "Sebze",
    "urun": "Mısır",
    "birim": "Adet",
-   "en_dusuk": 18,
-   "en_yuksek": 23
+   "en_dusuk": 17,
+   "en_yuksek": 21
   },
   {
    "kategori": "Sebze",
@@ -539,43 +546,43 @@
    "kategori": "Sebze",
    "urun": "Patates",
    "birim": "Kilogram",
-   "en_dusuk": 27,
-   "en_yuksek": 37
+   "en_dusuk": 23,
+   "en_yuksek": 35
   },
   {
    "kategori": "Sebze",
    "urun": "Patates (Taze)",
    "birim": "Kilogram",
-   "en_dusuk": 50,
-   "en_yuksek": 52
+   "en_dusuk": 38,
+   "en_yuksek": 44
   },
   {
    "kategori": "Sebze",
    "urun": "Patlıcan Bostan",
    "birim": "Kilogram",
-   "en_dusuk": 66,
-   "en_yuksek": 77
+   "en_dusuk": 68,
+   "en_yuksek": 79
   },
   {
    "kategori": "Sebze",
    "urun": "Patlıcan I.",
    "birim": "Kilogram",
-   "en_dusuk": 32,
+   "en_dusuk": 24,
    "en_yuksek": 69
   },
   {
    "kategori": "Sebze",
    "urun": "Pazı",
    "birim": "Kilogram",
-   "en_dusuk": 25,
+   "en_dusuk": 24,
    "en_yuksek": 33
   },
   {
    "kategori": "Sebze",
    "urun": "Pırasa",
    "birim": "Kilogram",
-   "en_dusuk": 39,
-   "en_yuksek": 53
+   "en_dusuk": 33,
+   "en_yuksek": 50
   },
   {
    "kategori": "Sebze",
@@ -588,120 +595,120 @@
    "kategori": "Sebze",
    "urun": "Salata (Çengelköy) silor",
    "birim": "Kilogram",
-   "en_dusuk": 24,
-   "en_yuksek": 43
+   "en_dusuk": 29,
+   "en_yuksek": 52
   },
   {
    "kategori": "Sebze",
    "urun": "Salatalık I.",
    "birim": "Kilogram",
-   "en_dusuk": 17,
-   "en_yuksek": 35
+   "en_dusuk": 19,
+   "en_yuksek": 37
   },
   {
    "kategori": "Sebze",
    "urun": "Sarımsak (Kuru)",
    "birim": "Kilogram",
    "en_dusuk": 122,
-   "en_yuksek": 141
+   "en_yuksek": 140
   },
   {
    "kategori": "Sebze",
    "urun": "Semizotu",
    "birim": "Kilogram",
-   "en_dusuk": 17,
-   "en_yuksek": 25
+   "en_dusuk": 16,
+   "en_yuksek": 24
   },
   {
    "kategori": "Sebze",
    "urun": "Soğan (Kırmızı Balık)",
    "birim": "Kilogram",
-   "en_dusuk": 48,
+   "en_dusuk": 47,
    "en_yuksek": 55
   },
   {
    "kategori": "Sebze",
    "urun": "Soğan (Taze)",
    "birim": "Kilogram",
-   "en_dusuk": 29,
-   "en_yuksek": 48
+   "en_dusuk": 27,
+   "en_yuksek": 45
   },
   {
    "kategori": "Sebze",
    "urun": "Soğan Kuru",
    "birim": "Kilogram",
-   "en_dusuk": 40,
-   "en_yuksek": 55
+   "en_dusuk": 36,
+   "en_yuksek": 52
   },
   {
    "kategori": "Sebze",
    "urun": "Tereotu",
    "birim": "Demet",
-   "en_dusuk": 14,
-   "en_yuksek": 20
+   "en_dusuk": 11,
+   "en_yuksek": 18
   },
   {
    "kategori": "Sebze",
    "urun": "Turp",
    "birim": "Kilogram",
-   "en_dusuk": 28,
+   "en_dusuk": 30,
    "en_yuksek": 35
   },
   {
    "kategori": "Sebze",
    "urun": "Turp (Kırmızı)",
    "birim": "Kilogram",
-   "en_dusuk": 23,
-   "en_yuksek": 29
+   "en_dusuk": 22,
+   "en_yuksek": 28
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Ahududu",
    "birim": "Kilogram",
-   "en_dusuk": 1565,
-   "en_yuksek": 1885
+   "en_dusuk": 1103,
+   "en_yuksek": 1732
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Ananas",
    "birim": "Adet",
-   "en_dusuk": 128,
-   "en_yuksek": 147
+   "en_dusuk": 122,
+   "en_yuksek": 142
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Ginger (Zencefil)",
    "birim": "Kilogram",
    "en_dusuk": 202,
-   "en_yuksek": 220
+   "en_yuksek": 228
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Hindistan Cevizi",
    "birim": "Adet",
-   "en_dusuk": 72,
-   "en_yuksek": 75
+   "en_dusuk": 74,
+   "en_yuksek": 84
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Mango",
    "birim": "Adet",
-   "en_dusuk": 101,
-   "en_yuksek": 133
+   "en_dusuk": 81,
+   "en_yuksek": 111
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Muz (1. Kalite)",
    "birim": "Kilogram",
-   "en_dusuk": 88,
+   "en_dusuk": 91,
    "en_yuksek": 110
   },
   {
    "kategori": "İthal Ürünler",
    "urun": "Yaban Mersini",
    "birim": "Kilogram",
-   "en_dusuk": 773,
-   "en_yuksek": 1025
+   "en_dusuk": 725,
+   "en_yuksek": 1027
   }
  ]
 }
